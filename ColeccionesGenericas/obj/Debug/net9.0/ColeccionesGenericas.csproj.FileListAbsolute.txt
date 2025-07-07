@@ -1,0 +1,15 @@
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/bin/Debug/net9.0/ColeccionesGenericas
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/bin/Debug/net9.0/ColeccionesGenericas.deps.json
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/bin/Debug/net9.0/ColeccionesGenericas.runtimeconfig.json
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/bin/Debug/net9.0/ColeccionesGenericas.dll
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/bin/Debug/net9.0/ColeccionesGenericas.pdb
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.AssemblyInfoInputs.cache
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.AssemblyInfo.cs
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.csproj.CoreCompileInputs.cache
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.sourcelink.json
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.dll
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/refint/ColeccionesGenericas.dll
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.pdb
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ColeccionesGenericas.genruntimeconfig.cache
+/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/Debug/net9.0/ref/ColeccionesGenericas.dll
