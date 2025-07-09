@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/ColeccionesGenericas.csproj": {}
+    "C:\\Users\\sebas\\Source\\Repos\\ColeccionesGenericas\\ColeccionesGenericas\\ColeccionesGenericas.csproj": {}
   },
   "projects": {
-    "/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/ColeccionesGenericas.csproj": {
+    "C:\\Users\\sebas\\Source\\Repos\\ColeccionesGenericas\\ColeccionesGenericas\\ColeccionesGenericas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/ColeccionesGenericas.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\Source\\Repos\\ColeccionesGenericas\\ColeccionesGenericas\\ColeccionesGenericas.csproj",
         "projectName": "ColeccionesGenericas",
-        "projectPath": "/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/ColeccionesGenericas.csproj",
-        "packagesPath": "/home/sebas/.nuget/packages/",
-        "outputPath": "/home/sebas/Escritorio/Proyectos/ColeccionesGenericas/ColeccionesGenericas/obj/",
+        "projectPath": "C:\\Users\\sebas\\Source\\Repos\\ColeccionesGenericas\\ColeccionesGenericas\\ColeccionesGenericas.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\Source\\Repos\\ColeccionesGenericas\\ColeccionesGenericas\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/sebas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/home/sebas/.dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/sebas/.dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
