@@ -1,0 +1,15 @@
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\bin\Debug\net9.0\ColeccionesGenericas2.exe
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\bin\Debug\net9.0\ColeccionesGenericas2.deps.json
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\bin\Debug\net9.0\ColeccionesGenericas2.runtimeconfig.json
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\bin\Debug\net9.0\ColeccionesGenericas2.dll
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\bin\Debug\net9.0\ColeccionesGenericas2.pdb
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.AssemblyInfoInputs.cache
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.AssemblyInfo.cs
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.sourcelink.json
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.dll
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\refint\ColeccionesGenericas2.dll
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.pdb
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ColeccionesGenericas2.genruntimeconfig.cache
+C:\Users\sebas\Source\Repos\ColeccionesGenericas\ColeccionesGenericas2\obj\Debug\net9.0\ref\ColeccionesGenericas2.dll
