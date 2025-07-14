@@ -28,7 +28,7 @@ class Program
         }
         Console.WriteLine("--------------------------------------------------");
 
-        //Insertamos un punto
+        //Insertamos un punto en un indice predeterminado
         puntos.Insert(2, new Punto(100,51));
 
         foreach (Punto p in puntos)
@@ -39,6 +39,8 @@ class Program
 
         //Copiamos de lista a arreglo
 
+        //creamos un arreglo de tipo Punto 
+        Console.WriteLine("Arreglo o Array");
         Punto[] arregloPuntos = puntos.ToArray();
         for (int n = 0; n < arregloPuntos.Length; n++)
         {
